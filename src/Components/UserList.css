@@ -1,0 +1,32 @@
+.userInfo {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 50px 50px 50px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid;
+}
+
+.searchTags {
+    margin-bottom: 50px;
+}
+
+input {
+    width: 30%;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 20px;
+}
+
+button {
+    padding: 8px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid;
+}
